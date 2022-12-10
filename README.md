@@ -1,4 +1,5 @@
-# Project 1
+# Simple FastAPI with Databricks
+
 ## Key Objectives
 The purpose of this project is to create scaffolds and work with GitHub CodeSpace. I created a command line tool that that queries Databricks and created a simple FastAPI web application. 
 
